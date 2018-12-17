@@ -46,7 +46,7 @@ public class Customer {
 
 	@Override
 	public String toString() {
-		return "Customer [lists=" + lists + ", sets=" + sets + ", maps=" + maps
+		return "Customer [lists=" + lists + "\n sets=" + sets + "\n maps=" + maps
 				+ ", pros=" + pros + "]";
 	}
 
