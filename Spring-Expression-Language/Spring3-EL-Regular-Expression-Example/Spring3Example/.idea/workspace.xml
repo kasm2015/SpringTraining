@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45a6df93-a14e-4780-b0a6-0f7b25e5742f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Bean/Spring-CustomDateEditor-Examples/SpringExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Bean/Spring-CustomDateEditor-Examples/SpringExamples/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Bean/Spring-InitializingBean-DisposableBean-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Bean/Spring-InitializingBean-DisposableBean-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Bean/Spring-PostConstruct-PreDestroy-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Bean/Spring-PostConstruct-PreDestroy-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Bean/Spring-init-method-destroy-method-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Bean/Spring-init-method-destroy-method-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring3-EL-Map-List-Example/Spring3Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring3-EL-Map-List-Example/Spring3Example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring3-EL-Parser-Example/Spring3Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring3-EL-Parser-Example/Spring3Example/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -139,7 +137,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545152401311" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545152739770" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

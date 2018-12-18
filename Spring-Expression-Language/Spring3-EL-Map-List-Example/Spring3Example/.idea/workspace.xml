@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7097bcc7-ccda-4d52-9587-4e236838aede" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Bean/Spring-CustomDateEditor-Examples/SpringExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Bean/Spring-CustomDateEditor-Examples/SpringExamples/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Bean/Spring-InitializingBean-DisposableBean-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Bean/Spring-InitializingBean-DisposableBean-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Bean/Spring-PostConstruct-PreDestroy-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Bean/Spring-PostConstruct-PreDestroy-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Bean/Spring-init-method-destroy-method-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Bean/Spring-init-method-destroy-method-Example/SpringExample/target/test-classes/com/mkyong/common/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring3-EL-Parser-Example/Spring3Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring3-EL-Parser-Example/Spring3Example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring3-EL-Regular-Expression-Example/Spring3Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring3-EL-Regular-Expression-Example/Spring3Example/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
