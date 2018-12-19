@@ -1,0 +1,3 @@
+com\arcagile\web\controller\HelloController.class
+com\arcagile\servlet3\MyWebInitializer.class
+com\arcagile\config\SpringWebConfig.class
