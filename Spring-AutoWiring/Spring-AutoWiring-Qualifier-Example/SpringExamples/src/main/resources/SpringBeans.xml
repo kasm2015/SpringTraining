@@ -5,7 +5,7 @@ http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
 
 	<bean class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor"/>
 	
-	<bean id="customer" class="com.arcagile.common.Customer" >
+	<bean id="customer" class="com.arcagile.common.Customer" autowire="byName">
 		<property name="action" value="buy" />
 		<property name="type" value="1" />
 	</bean>

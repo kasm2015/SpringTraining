@@ -19,9 +19,9 @@ public class JdbcTemplateApp
     		new ClassPathXmlApplicationContext("Spring-Module.xml");
     	 
     	 CustomerDAO customerDAO = (CustomerDAO) context.getBean("customerDAO");
-         Customer customer1 = new Customer(1, "mkyong1",21);
-         Customer customer3 = new Customer(2, "mkyong2",22);
-         Customer customer2 = new Customer(3, "mkyong3",23);
+         Customer customer1 = new Customer(1, "Sandhya",21);
+         Customer customer3 = new Customer(2, "Syed Maqbul",22);
+         Customer customer2 = new Customer(3, "Tanmoy Aman",23);
   
          List<Customer>customers = new ArrayList<Customer>();
          customers.add(customer1);

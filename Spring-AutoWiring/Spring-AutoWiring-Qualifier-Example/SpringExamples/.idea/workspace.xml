@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06feffc4-0887-44fc-bc59-c25a83b80d50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Components/Spring-Auto-Scan-Component-Example/SpringExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Components/Spring-Auto-Scan-Component-Example/SpringExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Components/Spring-Filter-Auto-Scan-Example/SpringExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Components/Spring-Filter-Auto-Scan-Example/SpringExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Expression-Language/Spring3-EL-Map-List-Example/Spring3Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Expression-Language/Spring3-EL-Map-List-Example/Spring3Example/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Expression-Language/Spring3-EL-Parser-Example/Spring3Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Expression-Language/Spring3-EL-Parser-Example/Spring3Example/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Spring-Expression-Language/Spring3-EL-Regular-Expression-Example/Spring3Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-Expression-Language/Spring3-EL-Regular-Expression-Example/Spring3Example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/SpringBeans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SpringBeans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-AutoWiring-by-Constructor-Example/SpringExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-AutoWiring-by-Constructor-Example/SpringExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-AutoWiring-by-Name-Example/SpringExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-AutoWiring-by-Name-Example/SpringExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-AutoWiring-by-Type-Example/SpringExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-AutoWiring-by-Type-Example/SpringExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-Autowired-Annotation-Example/SpringExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-Autowired-Annotation-Example/SpringExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/database/database.ddl" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/database/database.ddl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/src/main/java/com/arcagile/common/JdbcTemplateApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/src/main/java/com/arcagile/common/JdbcTemplateApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/src/main/resources/database/Spring-Datasource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/src/main/resources/database/Spring-Datasource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/target/test-classes/com/mkyong/common/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring-MVC/SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-MVC/SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring-MVC/SpringMVC-ControllerClassNameHandlerMapping/SpringMVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-MVC/SpringMVC-ControllerClassNameHandlerMapping/SpringMVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring-MVC/spring3-mvc-maven-annotation-hello-world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-MVC/spring3-mvc-maven-annotation-hello-world/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring-MVC/spring3-mvc-maven-xml-hello-world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring-MVC/spring3-mvc-maven-xml-hello-world/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +25,55 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/common/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/common/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/common/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/SpringBeans.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/SpringBeans.xml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -30,6 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -55,16 +113,30 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SpringExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545155092203" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545324362999" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,6 +149,26 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arcagile.common.App" />
+      <module name="SpringExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcagile.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -91,35 +183,75 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2431611" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24392097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924013" weight="0.5319149" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007599" side_tool="true" weight="0.5319149" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/common/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/common/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/SpringBeans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/common/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

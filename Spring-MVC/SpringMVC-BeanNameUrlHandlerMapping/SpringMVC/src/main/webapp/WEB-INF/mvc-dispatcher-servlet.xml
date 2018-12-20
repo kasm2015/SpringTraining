@@ -17,6 +17,6 @@
 
 	<bean name="/welcome.htm" class="com.arcagile.common.controller.HelloWorldController" />
 	
-	<bean name="/process*.htm" class="com.arcagile.common.controller.HelloWorldController" />
+	<bean name="/process*.htm" class="com.arcagile.common.controller.TestController" />
 
 </beans>

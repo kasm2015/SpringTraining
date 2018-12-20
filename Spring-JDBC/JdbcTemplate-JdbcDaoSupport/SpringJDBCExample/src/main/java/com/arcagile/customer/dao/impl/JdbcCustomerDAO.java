@@ -43,7 +43,6 @@ public class JdbcCustomerDAO extends JdbcDaoSupport implements CustomerDAO
 			
 		getJdbcTemplate().batchUpdate(sql, new BatchPreparedStatementSetter() {
 			
-			@Override
 			public void setValues(PreparedStatement ps, int i) throws SQLException {
 				Customer customer = customers.get(i);
 				ps.setLong(1, customer.getCustId());
@@ -51,7 +50,7 @@ public class JdbcCustomerDAO extends JdbcDaoSupport implements CustomerDAO
 				ps.setInt(3, customer.getAge() );
 			}
 			
-			@Override
+
 			public int getBatchSize() {
 				return customers.size();
 			}
@@ -84,7 +83,6 @@ public class JdbcCustomerDAO extends JdbcDaoSupport implements CustomerDAO
  
 		Customer customer = (Customer)getJdbcTemplate().queryForObject(
 				sql, new Object[] { custId }, new CustomerRowMapper());
-	
 		return customer;
 	}
 	

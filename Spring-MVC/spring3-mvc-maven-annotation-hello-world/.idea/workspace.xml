@@ -2,13 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46e2176b-a744-46c2-9a25-29f4b67942c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SpringMVC-HandlerMapping-Priority-Example/SpringMVC/src/main/java/com/arcagile/common/controller/HelloGuestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC-HandlerMapping-Priority-Example/SpringMVC/src/main/java/com/arcagile/common/controller/WelcomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC-SimpleUrlHandlerMapping-Example/SpringMVC/src/main/java/com/arcagile/common/controller/HelloGuestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC-SimpleUrlHandlerMapping-Example/SpringMVC/src/main/java/com/arcagile/common/controller/WelcomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arcagile/config/SpringWebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arcagile/servlet3/MyWebInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arcagile/web/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/src/main/java/com/arcagile/common/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-AutoWiring-Qualifier-Example/SpringExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-AutoWiring-Qualifier-Example/SpringExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-AutoWiring-Qualifier-Example/SpringExamples/src/main/resources/SpringBeans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-AutoWiring-Qualifier-Example/SpringExamples/src/main/resources/SpringBeans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-AutoWiring-by-Constructor-Example/SpringExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-AutoWiring-by-Constructor-Example/SpringExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-AutoWiring-by-Name-Example/SpringExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-AutoWiring-by-Name-Example/SpringExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-AutoWiring-by-Type-Example/SpringExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-AutoWiring-by-Type-Example/SpringExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-Autowired-Annotation-Example/SpringExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-AutoWiring/Spring-Autowired-Annotation-Example/SpringExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/database/database.ddl" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/database/database.ddl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/src/main/java/com/arcagile/common/JdbcTemplateApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/src/main/java/com/arcagile/common/JdbcTemplateApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/src/main/java/com/arcagile/customer/dao/impl/JdbcCustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/src/main/java/com/arcagile/customer/dao/impl/JdbcCustomerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/src/main/resources/database/Spring-Datasource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/src/main/resources/database/Spring-Datasource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-JDBC/JdbcTemplate-JdbcDaoSupport/SpringJDBCExample/target/test-classes/com/mkyong/common/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-JDBC/SpringJDBCExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-JDBC/SpringJDBCExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-JDBC/SpringJDBCExample/target/test-classes/com/mkyong/common/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/SpringMVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/SpringMVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC-BeanNameUrlHandlerMapping/SpringMVC/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC-ControllerClassNameHandlerMapping/SpringMVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC-ControllerClassNameHandlerMapping/SpringMVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC-ControllerClassNameHandlerMapping/SpringMVC/SpringMVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC-ControllerClassNameHandlerMapping/SpringMVC/SpringMVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC-ControllerClassNameHandlerMapping/SpringMVC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC-ControllerClassNameHandlerMapping/SpringMVC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring3-mvc-maven-xml-hello-world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring3-mvc-maven-xml-hello-world/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +37,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/config/SpringWebConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+            <state relative-caret-position="255">
+              <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -31,8 +50,31 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="56" column="51" lean-forward="true" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+            <state relative-caret-position="113">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/core/css/hello.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/web/controller/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/servlet3/MyWebInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -43,6 +85,8 @@
     <findStrings>
       <find>mkyong</find>
       <find>Spring3</find>
+      <find>conte</find>
+      <find>conten</find>
     </findStrings>
     <replaceStrings>
       <replace>arcagile</replace>
@@ -55,6 +99,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arcagile/web/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arcagile/config/SpringWebConfig.java" />
       </list>
     </option>
   </component>
@@ -78,7 +124,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,6 +171,24 @@
               <item name="spring3-mvc-maven-annotation-hello-world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="arcagile" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring3-mvc-maven-annotation-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring3-mvc-maven-annotation-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="arcagile" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring3-mvc-maven-annotation-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring3-mvc-maven-annotation-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -144,6 +207,26 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring3-mvc-maven-annotation-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring3-mvc-maven-annotation-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring3-mvc-maven-annotation-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring3-mvc-maven-annotation-hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring3-mvc-maven-annotation-hello-world" type="b2602c69:ProjectViewProjectNode" />
@@ -176,7 +259,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545327279980" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,17 +292,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25455928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.5695581" />
-      <window_info anchor="bottom" id="Terminal" weight="0.44844517" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -223,28 +308,67 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3207856" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.39443535" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.13.RELEASE/spring-webmvc-3.2.13.RELEASE.jar!/org/springframework/web/servlet/support/AbstractAnnotationConfigDispatcherServletInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/core/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/core/js/hello.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/config/SpringWebConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+        <state relative-caret-position="255">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/core/css/hello.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/web/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arcagile/servlet3/MyWebInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="56" column="51" lean-forward="true" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+        <state relative-caret-position="113">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>

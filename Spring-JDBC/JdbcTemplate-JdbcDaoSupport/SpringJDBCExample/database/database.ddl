@@ -8,6 +8,6 @@ CREATE TABLE  `arcagile`.`customer` (
 
 
 INSERT INTO `customer` (`CUST_ID`,`NAME`,`AGE`) VALUES 
- (1,'mkyong1',28),
- (2,'mkyong2',28),
- (3,'mkyong3',28);
+ (1,'Syed',28),
+ (2,'Sandhya',28),
+ (3,'Tanmoy&Aman',28);

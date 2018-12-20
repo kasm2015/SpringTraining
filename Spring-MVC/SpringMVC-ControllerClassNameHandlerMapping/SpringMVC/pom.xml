@@ -7,6 +7,12 @@
   <version>1.0-SNAPSHOT</version>
   <name>SpringMVC Maven Webapp</name>
   <url>http://maven.apache.org</url>
+	<properties>
+		<jdk.version>1.6</jdk.version>
+		<spring.version>3.2.13.RELEASE</spring.version>
+		<jstl.version>1.2</jstl.version>
+		<servletapi.version>3.1.0</servletapi.version>
+	</properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -14,7 +20,13 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-	
+	  <!-- compile only, deployed container will provide this -->
+	  <dependency>
+		  <groupId>javax.servlet</groupId>
+		  <artifactId>javax.servlet-api</artifactId>
+		  <version>${servletapi.version}</version>
+		  <scope>provided</scope>
+	  </dependency>
 	<!-- Spring framework --> 
 	<dependency>
 		<groupId>org.springframework</groupId>
